@@ -1,31 +1,31 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Gaven Dytioco",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "email": "dytiocog@hawaii.edu",
+    "phone": "(650) 676-5929",
+    "website": "https://gavendytioco.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "gavendytioco", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Mechanical Engineering" },
+    { "name": "Software Development" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Business Marketing" }
+    
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -35,9 +35,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2024-09-10",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,10 +45,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "DeepnNorth AI",
+      "position": "IT",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-06-15",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
