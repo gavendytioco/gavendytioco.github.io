@@ -23,5 +23,5 @@ These coding standards, enforced through tools like ESLint in VSCode, especially
 
 ## Balancing Rigidity and Flexibility
 
-While coding standards are important in maintaining quality, especially with the use of ESLint to enforce them, it is equally important not to be too inflexible as this tends to mute creativity. Sometimes, developers feel that some of these rules don't quite fit the problem they're trying to solve. It really is a matter of balance-- Coding standards are important in encouraging best practices, yet also need to allow room for flexibility when needed. In taking this approach, code will remain clean, maintainable code while allowing innovation and problem solving to still occur.
+While coding standards are important in maintaining quality, especially with the use of ESLint to enforce them, it is equally important not to be too inflexible as this tends to mute creativity. Sometimes, developers feel that some of these rules don't quite fit the problem they're trying to solve. It really is a matter of balance-- Coding standards are important in encouraging best practices, yet also need to allow room for flexibility when needed. In taking this approach, code will remain clean, maintainable code while allowing innovation and problem solving to still happen.
 
