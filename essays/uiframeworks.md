@@ -20,6 +20,6 @@ Furthermore, UI frameworks like Bootstrap streamline collaboration within teams.
 
 Compared to other frameworks, such as Semantic UI though I don't have experience with, I've heard the differences lie in the approach to simplicity and customization. Semantic UI apparently aims to be more human-readable, relying on descriptive class names that read like natural language. While this has its charm, I've also heard it can lack the extensive community support and wide range of third-party integrations that make Bootstrap so versatile. In contrast, Bootstrap 5 is battle-tested across many industries and supported by a vast ecosystem, making it a safer bet for long-term projects.
 
-Ultimately, the decision to use a UI framework like Bootstrap comes down to balancing efficiency with flexibility. The upfront effort may be challenging, but the benefits in time saved, maintainability, and visual polish make it an essential tool for modern web development.
+Ultimately, the decision to use a UI framework like Bootstrap comes down to balancing efficiency with flexibility. The upfront effort may be challenging, but the benefits in time saved, maintainability, as well as visual polish make it an essential tool for modern web development.
 
 
